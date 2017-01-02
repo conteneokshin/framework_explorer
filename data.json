@@ -1,0 +1,150 @@
+{  
+   "name":"Frameworks",
+   "children":[  
+      {  
+         "name":"!Innovation Games®",
+         "children":[  
+            {  
+               "name":"Buy a Feature",
+               "children":[  
+                  {  
+                    "name": "Standard Buy A Feature",
+                     "framework_id":"ILP2HGHZJJBEM4W0N2GGDXW1CFIOBO3B",
+                     "image_id":"images/weave/DEpreview.png"
+                  },
+                  {  
+                    "name": "Scrum Buy A Feature",
+                     "framework_id":"OOIXXFHGPJP2XJKSYSMYXW33P3D3WJD4",
+                     "image_id":"c"
+                  },
+                  {  
+                     "name": "Animal Shelter Volunteers Simulation",
+                     "framework_id":"3PY205FLYWVPHRUE31V4YPUNJ211DC5Y",
+                     "image_id":"images/weave/DEpreview.png"
+                  }
+               ]
+            },
+            {  
+               "name":"Prune the Product Tree",
+               "framework_id":"",
+               "image_id":"images/tree3.jpg"
+            },
+            {  
+               "name":"Spider Web",
+               "framework_id":"",
+               "image_id":""
+            }
+         ]
+      },
+      {  
+         "name":"Gamestorming",
+         "children":[  
+            {  
+               "name":"Buy a Feature",
+               "children":[  
+                  {  
+                     "name": "Standard Buy A Feature",
+                     "framework_id":"ILP2HGHZJJBEM4W0N2GGDXW1CFIOBO3B",
+                     "image_id":"images/weave/DEpreview.png"
+                  },
+                  {  
+                     "name": "Scrum Buy A Feature",
+                     "framework_id":"OOIXXFHGPJP2XJKSYSMYXW33P3D3WJD4",
+                     "image_id":"images/weave/DEpreview.png"
+                  },
+                  {  
+                     "name": "Animal Shelter Volunteers Simulation",
+                     "framework_id":"3PY205FLYWVPHRUE31V4YPUNJ211DC5Y",
+                     "image_id":"images/weave/DEpreview.png"
+                  }
+               ]
+            },
+            {  
+               "name":"Prune the Product Tree",
+               "framework_id":"",
+               "image_id":""
+            },
+            {  
+               "name": "How-Now-Wow Matrix",
+               "framework_id":"ACEZFUCFZGKABMLCG0N05XFWWGJQSBLK",
+               "image_id":"DL045NB5EHSPTWAFJTDXVWE50OCGB4TC"
+            }
+         ]
+      },
+      {  
+         "name":"Frameworks for Scrum/Agile",
+         "children":[  
+            {  
+               "name":"Story Rounding",
+               "framework_id":"1GKUYMHTUNBMULTT3O1OHCDDPJARY3FR",
+               "image_id":"J1OND1W5QJUJF4TUXCNUKEUUDQSVKPMJ"
+            },
+            {  
+               "name": "Scrum Buy A Feature",
+               "framework_id":"OOIXXFHGPJP2XJKSYSMYXW33P3D3WJD4",
+               "image_id":"images/weave/DEpreview.png"
+            },
+            {  
+               "name":"Circles and Soup",
+               "framework_id":"0F24HO0ZAT4MC205ZHKSY0AKAZWR4QT1",
+               "image_id":"2SBUC2QFWA5GVBMH534IXLVCB5MQUVMR"
+            },
+            {  
+               "name":"Scrum Framework Improvements",
+               "framework_id":"GXKA55OXDT4DU40CBM3QVJ0LKI5PMWBU",
+               "image_id":"S2MUPY3EKAQKDCFM15PHSQROE51U0SMO"
+            }
+         ]
+      },
+      {  
+         "name":"Retrospectives",
+         "children":[  
+            {  
+               "name":"Speed Boat",
+               "framework_id":"4NBBAG1D1FE2WQ05YT20FRZYVEILUWHU",
+               "image_id":"images/assets/speedboat.png"
+            },
+            {  
+               "name":"Sail Boat",
+               "framework_id":"4NBBAG1D1FE2WQ05YT20FRZYVEILUWHU", 
+               "image_id":"images/sailboat.jpg"
+            },
+            {  
+               "name":"Circles and Soup",
+               "framework_id":"0F24HO0ZAT4MC205ZHKSY0AKAZWR4QT1",
+               "image_id":"2SBUC2QFWA5GVBMH534IXLVCB5MQUVMR"
+            }
+         ]
+      },
+      {  
+         "name":"Planning",
+         "children":[  
+            {  
+               "name":"Planning Walls and 2x2 Matrices",
+               "children":[  
+                  {  
+                     "name": "Business Engineering/ Impact Matrix",
+                     "framework_id":"4NBBAG1D1FE2WQ05YT20FRZYVEILUWHU",
+                     "image_id":"QBLQS2D0IVN1EC1KKAWSMLVQEJOLGZZ2"
+                  },
+                  {  
+                     "name": "Simle Effort/ Impact Matrix",
+                     "framework_id":"5HXIA1ZJOGKTDEYHTBTRR30VQFBT4HQN",
+                     "image_id":"C5FAJM0YUJUYSQZY20GVP2QCGS4QTC2P"
+                  },
+                  {  
+                     "name": "How-Now-Wow Matrix",
+                     "framework_id":"ACEZFUCFZGKABMLCG0N05XFWWGJQSBLK",
+                     "image_id":"DL045NB5EHSPTWAFJTDXVWE50OCGB4TC"
+                  }
+               ]
+            },
+            {  
+               "name":"Whole Product",
+               "framework_id":"1UISDIDTJ4AMQMD1H32VNVFXCGPTJVXQ",
+               "image_id":"PAJF00EHB0PG5X0ADIMI0EBQA32FLT1Z"
+            }
+         ]
+      }
+   ]
+}

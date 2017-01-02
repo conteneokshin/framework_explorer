@@ -1,0 +1,73 @@
+{
+    "name": "Frameworks",
+    "children": [{
+        "name": "Innovation Games",
+        "children": [{
+            "name": "Buy A Feature",
+            "framework_id": "",
+            "image_url": ""
+        }, {
+        	"name": "Prune the Product Tree",
+            "framework_id": ""        
+            "image_url": ""
+      	},{
+        	"name": "Spider Web",
+            "framework_id": "",
+            "image_url": ""
+      	}]
+    }, {
+        "name": "Gamestorming",
+        "children": [{
+            "name": "Buy A Feature",
+            "framework_id": "",
+            "image_url": ""
+        }, {
+            "name": "Prune the Product Tree",
+            "framework_id": ""        
+            "image_url": ""
+        }, {
+            "name": "Spider Web",
+            "framework_id": ""        
+            "image_url": ""
+        }]
+ 
+    }, {
+        "name": "Retrospectives",
+        "children": [{
+            "name": "Speed Boat",
+            "framework_id": ""        
+            "image_url": ""
+        }, {
+            "name": "Sail Boat",
+            "framework_id": ""        
+            "image_url": ""    
+         }, {
+            "name": "Circles and Soup",
+            "framework_id": ""        
+            "image_url": ""     
+        }]
+    }, {
+        "name": "Planning",
+        "children": [{
+            "name": "Planning Wall",
+            "framework_id": ""        
+            "image_url": ""    
+        }, {
+            "name": "Whole Product",
+            "framework_id": ""        
+            "image_url": ""     
+        },{
+            "name": "Last",
+            "framework_id": ""        
+            "image_url": ""    
+         }]
+       }]
+}
+
+
+ {
+    "name": "Pros and Cons,
+    "framework_id": "3TFU1EQBABVUYJRSDU1EOOPWBVOEQAPV",
+    image_url: "http://innovationgames.com/image_logic/TJ0GRFLZV3SQR1BVM1UTV1OOZ5WTZITZ"
+
+ }
